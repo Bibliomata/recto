@@ -34,13 +34,13 @@
     "ldpjs": "git+https://github.com/lcnetdev/ldpjs.git",
     "lodash": "^4.17.20",
     "node-fetch": "^2.6.7",
-    "passport": "^0.3.2",
+    "passport": "^0.6.0",
     "passport-http": "^0.3.0",
     "rdf-translator": "^0.1.0",
     "rdflib": "^0.14.1",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",
-    "saxon-js": "^2.0.2",
+    "saxon-js": "^2.6.0",
     "short-uuid": "^3.1.1",
     "supertest": "^4.0.2",
     "underscore": "^1.12.1",
@@ -50,7 +50,7 @@
     "eslint": "^4.19.1",
     "eslint-plugin-node": "^7.0.1",
     "mocha": "^10.2.0",
-    "nodemon": "^1.19.4",
+    "nodemon": "^3.1.3",
     "supertest": "^4.0.2"
   }
 }
